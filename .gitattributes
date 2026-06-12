@@ -1,0 +1,6 @@
+*.json text eol=lf
+*.txt text eol=lf
+*.signed.json text eol=lf
+*.ogg -text
+*.gn -text
+*.dat -text

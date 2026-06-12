@@ -1,0 +1,15 @@
+# 本目录建议单独作为配置发布仓库使用。
+# 远端仅提交签名版 JSON；非签名 JSON 只保留本地。
+# 这里同时忽略常见本地杂项。
+
+!.gitignore
+*.json
+!*.signed.json
+
+# 常见本地杂项
+__pycache__/
+*.pyc
+*.pyo
+Thumbs.db
+Desktop.ini
+/.idea/

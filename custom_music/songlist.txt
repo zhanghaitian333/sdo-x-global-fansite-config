@@ -1,0 +1,88 @@
+k_id	slot_name	song_name
+sdom0001K	野蛮游戏	[LPG] jeweMaria
+sdom1056K	触电	[LPG] Turii ~Panta Rhei~(MA HD)
+sdom1071K	幸福氧气	[LPG] Online Game Addicts Sprechor
+sdom1117K	DREAMS	[LPG] Gamble Ramble
+sdom1173K	Reason	[LPG] On the Radio
+sdom1181K	My Name	[LPG] Ryoushi No Umi No Rintovurumu（HD）
+sdom1194K	傻瓜	[DFS] 穿越灵魂遇见你
+sdom1235K	君歌	[LPG] Joker（SHD）
+sdom1237K	MonStAR	[LPG] PRiMA MATERiA（HD）
+sdom1417K	Lady	[LPG] Cynthia No Hikari
+sdom1425K	伸展翅膀	[LPG] Jihad（HD）
+sdom1428K	Oh My Friend	[LPG] Parousia（HD）
+sdom1549K	国王皇后	[LPG] Raison D'etre（SHD）
+sdom1575K	Lollipop	[LPG] 自己呀（OLD）
+sdom1579K	Super Man	[LPG] Hon Bat Cu Ai
+sdom1742K	白马王子	[LPG] Running In The 90's
+sdom1743K	星光闪耀的夜晚	[LPG] Butter-Fly
+sdom1772K	Keep You Much Longer	[DFS] 青空下最后的微笑
+sdom1801K	Sweet Christmas	[LPG] Passion（LN）
+sdom1817K	Dreams Come True	[LPG] Ignite
+sdom1827K	Bo Peep Bo Peep	[LPG] Almagest（SHD）
+sdom1828K	你的爱	[LPG] Crossing Field
+sdom1847K	Crazy4s	[DFS] 黄花瘦
+sdom1852K	Every Heart	[LPG] Avalanche
+sdom1854K	oh!	[LPG] V2
+sdom1856K	日いちゃうかも	[LPG] Identic Conflict（HD）
+sdom1894K	DA DA BUL	[LPG] max power
+sdom1914K	Stick Wit U	[LPG] Unfinished
+sdom1916K	crazy woman	[LPG] Axion（SHD）
+sdom1923K	GEE	[LPG] THE HERO !!
+sdom1930K	Happy Loving	[DFS] 史瓦西场引力域
+sdom1996K	BEAUTIFUL HANGOVER	[LPG] The Apocalypse
+sdom2003K	Give a Little More	[DFS] 腊月风中的欢乐
+sdom2040K	Hello	[DFS] Riot of Color
+sdom2096K	那个女人	[LPG] Kho Bau
+sdom2185K	Girl	[LPG] Bang Bang
+sdom2198K	give me every thing	[LPG] My Dearest
+sdom2377K	La-Di Da-Di	[LPG] Persephone（SHD）
+sdom2379K	shake it up!	[LPG] Enraptured
+sdom2385K	Happy Ending	[DFS] Hadron Strike
+sdom2386K	Flashback	[LPG] Aleph-0（SV）
+sdom2388K	キミにささげる あいのマホウ	[LPG] Khong Thoi Gian
+sdom2396K	Volume Up	[LPG] ViViD（SV）
+sdom2409K	我爱游戏	[LPG] ANiMA（SHD）
+sdom2419K	Chase the world	[LPG] Shinsekai（SHD）
+sdom2420K	PONPONPON	[LPG] Akasagarbha（SHD）
+sdom2426K	Get Up	[LPG] Garasu no Hitomi
+sdom2427K	Spending all my time	[LPG] Jiyuu no Tsubasa（spam SHD）
+sdom2438K	你的名作	[LPG] Heart of Witch（HD）
+sdom2442K	crossing field	[LPG] Rising Hope
+sdom2465K	LET'S GO OUT	[DFS] 恋爱！危机！！战争？？
+sdom2466K	走过	[LPG] R.I.P.（SV）
+sdom2474K	意気地なしマスカレード	[LPG] Mope Mope（SV）
+sdom2499K	谎言	[DFS] 轰！恋爱的冰菓球
+sdom2501K	想怎样	[LPG] Explosive（HD）
+sdom2507K	I'm Yesterday	[DFS] 赛博之光
+sdom2534K	Try	[DFS] 打不倒的空气人
+sdom2538K	Breaking The Habit	[DFS] Illuminati-Remix
+sdom2616K	Victory Korea	[LPG] The Disappearance of Hatsune Miku
+sdom2625K	今天做什么	[LPG] Libera Me（SHD+SV）
+sdom2632K	My Destiny	[LPG] Pure Ruby（SHD）
+sdom2633K	Sha La La	[LPG] Zhou Da Xia（HD）
+sdom2638K	Problem	[LPG] girlfriend
+sdom2656K	爱情呼救999	[LPG] NEW WORLD SYMPHONY（SHD）
+sdom2661K	Your Captain Tonight	[LPG] SPAGHETTI (Member ver.)
+sdom2672K	Nightmare	[LPG] Saika
+sdom2676K	Maps	[LPG] CHAOS AGAIN（SV）
+sdom2690K	Sign	[LPG] Crazy Dogs（spam）
+sdom2694K	U Beauty	[LPG] Elpis（HD）
+sdom2700K	飞檐走壁	[LPG] Uraomote Lovers
+sdom2706K	Beautiful Day	[LPG] SHE BANGS
+sdom2709K	Wild	[LPG] Dynasty（HD）
+sdom2715K	Mirrors	[LPG] Sorceress Elise（HD）
+sdom2720K	Never Know	[LPG] Dung De Tien Roi
+sdom2721K	Bbibbi	[LPG] V
+sdom2722K	FEEL IT	[LPG] RUDE!
+sdom2729K	BAD MAMA JAMA	[LPG] Fire Fire（SHD）
+sdom2733K	Run & Run	[LPG] Hon La Ban
+sdom2741K	Action	[LPG] Final Countdown
+sdom2756K	コイノシルシ	[LPG] Oblivion (Rockin' Night Style)
+sdom2757K	チョコの笛船	[LPG] Black Dragon
+sdom2785K	Nobody Knows	[LPG] Odin（SHD）
+sdom2803K	Shine	[LPG] T.S（SHD+SV）
+sdom2827K	PUPPY(Korean Ver.)	[LPG] She is my sin
+sdom2880K	寻找理想型	[LPG] do sCrash
+sdom2904K	Flow	[LPG] Mua Thang Sau
+sdom2941K	佛系少女	[LPG] Turii ~Panta Rhei~(Vie  EZ)
